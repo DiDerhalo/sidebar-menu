@@ -277,7 +277,7 @@ body._lock {
   }
 }
 
-@media (max-width: 575.98px) {
+@media (max-width: 576px) {
   .section__img {
     width: 120%;
   }
