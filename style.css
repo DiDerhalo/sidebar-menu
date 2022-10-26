@@ -279,6 +279,6 @@ body._lock {
 
 @media (max-width: 576px) {
   .section__img {
-    width: 120%;
+    width: 100%;
   }
 }
